@@ -18,5 +18,5 @@
 
 
 <div align="center">
-✨by shibla shibu ✨  
+shiblaaah  
 </div>
