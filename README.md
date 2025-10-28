@@ -8,9 +8,8 @@
 ### 💖 About Me 💖
 - 🎓 Currently pursuing **MCA**  
 - ⚛️ Graduated in **B.Sc. Physics**  
-- 🌱 Learning coding step by step (slowly but surely)  
-- 🌸 Passionate about exploring new things and building cute little projects!  
-- 💫 I Love designing & cooking ✨
+  
+- 🌸 Passionate about exploring new things and building cute little projects! 
 
 <div align="center">
   <img src="https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
