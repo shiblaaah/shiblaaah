@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shiblaaah/shiblaaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌸 Myself Shibla  
 
-Here are some ideas to get you started:
+A **MCA Student** & **B.Sc. Physics Graduate**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+and+Growing+Everyday+💫" alt="Typing SVG" />
+</p>
+
+</div>
+
+---
+
+### 💫 About Me
+- 🎓 Currently pursuing **MCA**  
+- ⚛️ Graduated in **B.Sc. Physics**  
+- 🌱 Learning coding step by step  
+- 💖 Love exploring new things and creating simple projects  
+
+---
+
+### 🐍 GitHub Snake Animation
+![snake gif](https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg)
+
+---
+
+<div align="center">
+✨ *Thanks for visiting my profile!* ✨  
+</div>
