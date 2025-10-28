@@ -10,7 +10,7 @@
 - ⚛️ Graduated in **B.Sc. Physics**  
 - 🌱 Learning coding step by step (slowly but surely)  
 - 🌸 Passionate about exploring new things and building cute little projects!  
-- 💫 Love designing and adding sparkles to everything ✨
+- 💫 I Love designing & cooking ✨
 
 <div align="center">
   <img src="https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
