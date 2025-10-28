@@ -1,11 +1,8 @@
 <div align="center">
 
-# 🌸 Myself Shibla  
-
-A **MCA Student** & **B.Sc. Physics Graduate**
-
+# 🌸 Myself Shibla
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+%26+Flutter+App+Developer;Web+%26+Flutter+App+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=MCA+Student+%26+B.Sc.+Physics+Graduate;MCA+Student+%26+B.Sc.+Physics+Graduate;" alt="Typing SVG" />
 </p>
 
 </div>
