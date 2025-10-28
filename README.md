@@ -16,5 +16,5 @@
 ![snake gif](https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg)
 
 <div align="center">
-✨ **al the best** ✨  
+✨ all the best ✨  
 </div>
