@@ -11,7 +11,7 @@
 - 💖 Love exploring new things and creating simple projects  
 
 ### 🐍 GitHub Snake Animation
-![snake gif](https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg)
+![snake ](https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg)
 
 <div align="center">
 ✨ all the best ✨  
