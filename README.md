@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Myself Shibla 
+#  SHIBLA!
 
 <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&pause=1000&color=B0B0B0&center=true&vCenter=true&width=435&lines=MCA+Graduate" alt="Typing SVG" />
 </p>
