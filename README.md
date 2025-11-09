@@ -2,7 +2,8 @@
 
 #  Myself Shibla 
 
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=MCA+Graduate+%26+;MCA+Student+%26;" alt="Typing SVG" /></p>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&pause=1000&color=B0B0B0&center=true&vCenter=true&width=435&lines=MCA+Graduate" alt="Typing SVG" />
+</p>
 </div>
 
 // About Me //
