@@ -7,7 +7,7 @@
 </div>
 
 // About Me //
--  🎓 **MCA Graduate | Software Developer | Tech Enthusiast**
+-  🎓 **MCA | Software Developer | Tech Enthusiast**
 
 I'm a passionate developer who loves building creative and efficient solutions.  
 With a strong foundation in computer science and hands-on experience across multiple programming languages and frameworks, I enjoy turning ideas into real-world applications that make an impact.
