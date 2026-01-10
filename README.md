@@ -12,7 +12,7 @@
 I'm a passionate developer who loves building creative and efficient solutions.  
 With a strong foundation in computer science and hands-on experience across multiple programming languages and frameworks, I enjoy turning ideas into real-world applications that make an impact.
   
--  
+
 <div align="center">
   <img src="https://github.com/shiblaaah/shiblaaah/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
 </div>
